@@ -8,3 +8,8 @@ C0007	Johnson	Alma	Palo Alto
 C0008	Jones	Main	Harrison	
 C0009	Lindsay	Park	Pittsfield	
 C0010	Smith	North	Rye	
+
+
+Learnings
+ How to crate data bases
+
